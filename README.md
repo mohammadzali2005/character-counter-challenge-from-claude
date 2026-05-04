@@ -23,4 +23,4 @@ This project was created as a coding challenge to practice real-time input handl
 - Add animations for counter transitions
 
 ## link
-[Live Demo]()
+[Live Demo](https://mohammadzali2005.github.io/character-counter-challenge-from-claude/)
