@@ -13,6 +13,10 @@ body{
     align-items: center;
     justify-content: center;
     gap: 20px;
+    background-image: url('./background-removebg-preview.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #textarea-el{
